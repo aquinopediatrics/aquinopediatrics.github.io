@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>Aquino Pediatrics</title>
-	<atom:link href="http://www.aquinopediatrics.com/feed" rel="self" type="application/rss+xml" />
+	<title>Comments on: Our Providers</title>
+	<atom:link href="http://www.aquinopediatrics.com/our-providers-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.aquinopediatrics.com</link>
 	<description>Your Children Are Like Family</description>
-	<lastBuildDate>Sat, 10 Sep 2016 03:22:31 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Fri, 01 Jun 2018 14:32:41 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	
