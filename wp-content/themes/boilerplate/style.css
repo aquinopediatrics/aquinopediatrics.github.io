@@ -475,19 +475,20 @@ body div .wpcf7-submit  {
 
 
 .corona-collapsible {
-  background-color: #777;
+  background-color: #CC291D;
   color: white;
   cursor: pointer;
   padding: 18px;
-  width: 100%;
   border: none;
   text-align: left;
   outline: none;
   font-size: 15px;
+  margin: .5em 1%;
+  width: 98%;
 }
 
 .corona-active, .corona-collapsible:hover {
-  background-color: #555;
+  background-color: #9a2a1e;
 }
 
 .corona-content {
@@ -495,4 +496,16 @@ body div .wpcf7-submit  {
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
+}
+
+button.corona-collapsible {
+    background-color: #9a2a1e;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
 }
