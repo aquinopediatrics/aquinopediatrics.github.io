@@ -505,3 +505,7 @@ body div .wpcf7-submit  {
     float: right;
     margin-left: 5px;
 }
+
+.corona-collapsible.corona-active:after {
+    content: "\2212";
+}
